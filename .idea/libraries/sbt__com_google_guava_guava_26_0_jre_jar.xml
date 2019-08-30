@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="sbt: com.google.guava:guava:26.0-jre:jar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.ivy2/cache/com.google.guava/guava/bundles/guava-26.0-jre.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

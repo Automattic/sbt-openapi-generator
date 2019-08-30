@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="sbt: org.scala-sbt:util-scripted_2.12:1.2.4:jar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.ivy2/cache/org.scala-sbt/util-scripted_2.12/jars/util-scripted_2.12-1.2.4.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

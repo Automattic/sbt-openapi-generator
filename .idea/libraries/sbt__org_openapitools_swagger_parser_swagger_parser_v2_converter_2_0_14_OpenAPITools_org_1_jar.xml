@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="sbt: org.openapitools.swagger.parser:swagger-parser-v2-converter:2.0.14-OpenAPITools.org-1:jar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.ivy2/cache/org.openapitools.swagger.parser/swagger-parser-v2-converter/jars/swagger-parser-v2-converter-2.0.14-OpenAPITools.org-1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

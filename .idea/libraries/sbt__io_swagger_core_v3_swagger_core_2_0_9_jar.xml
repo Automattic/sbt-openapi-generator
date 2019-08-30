@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="sbt: io.swagger.core.v3:swagger-core:2.0.9:jar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.ivy2/cache/io.swagger.core.v3/swagger-core/bundles/swagger-core-2.0.9.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
