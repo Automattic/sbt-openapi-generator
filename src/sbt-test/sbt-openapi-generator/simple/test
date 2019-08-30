@@ -1,2 +1,2 @@
 > generateClient
-$ exists target/README.md
+$ exists target/php-client/README.md

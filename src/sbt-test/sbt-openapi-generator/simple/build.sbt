@@ -5,5 +5,6 @@ lazy val root = (project in file("."))
     version := "0.1",
     generatorConfig := file("src/config.yml"),
     generatorSpec := file("src/echo.yml"),
+    generatorOutput := file("target/php-client"),
     generatorLanguage := "php"
   )
