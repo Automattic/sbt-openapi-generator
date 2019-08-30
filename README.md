@@ -23,3 +23,8 @@ Example `project/plugins.sbt`:
 ```scala
 addSbtPlugin("com.automattic" % "sbt-openapi-generator" % "0.1_4.1.1-SNAPSHOT")
 ```
+
+# Testing
+
+This project uses the sbt-scripted plugin, so run `sbt scripted` to run
+tests against the project defined in `src/sbt-test`.
