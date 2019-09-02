@@ -1,9 +1,0 @@
-<component name="libraryTable">
-  <library name="sbt: com.github.java-json-tools:json-schema-validator:2.2.8:jar">
-    <CLASSES>
-      <root url="jar://$USER_HOME$/.ivy2/cache/com.github.java-json-tools/json-schema-validator/jars/json-schema-validator-2.2.8.jar!/" />
-    </CLASSES>
-    <JAVADOC />
-    <SOURCES />
-  </library>
-</component>

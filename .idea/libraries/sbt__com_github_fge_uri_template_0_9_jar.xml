@@ -1,9 +1,0 @@
-<component name="libraryTable">
-  <library name="sbt: com.github.fge:uri-template:0.9:jar">
-    <CLASSES>
-      <root url="jar://$USER_HOME$/.ivy2/cache/com.github.fge/uri-template/jars/uri-template-0.9.jar!/" />
-    </CLASSES>
-    <JAVADOC />
-    <SOURCES />
-  </library>
-</component>
